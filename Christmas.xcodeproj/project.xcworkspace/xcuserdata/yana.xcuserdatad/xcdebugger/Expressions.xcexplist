@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Maze.didBegin(_:):Maze.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "contact.bodyB.node?.name">
+            </PersistentString>
+            <PersistentString
+               value = "contact.bodyA.node?.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Jump.didBegin(_:):Jump.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "contact.bodyA.node?.name ">
+            </PersistentString>
+            <PersistentString
+               value = "contact.bodyB.node?.name ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Hide.shareToInstaStories():Hide.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIImage(named: &quot;Share&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Jump.touchesBegan(_:with:):Jump.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
